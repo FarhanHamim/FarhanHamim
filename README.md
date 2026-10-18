@@ -3,9 +3,8 @@
 ---
 
 ### 🎓 Education & Academic Background
-
-* **Affiliation & Field:** Deep involvement in computer science, technology, and information systems engineering.
-* **Academic Focus:** Specializing in system analysis, entity-relationship database design, and Management Information Systems (MIS)—active in reviewing student submissions, lab final reports, and practical system architectures.
+* **Independent University, Bangladesh (IUB):** Studied computer science and engineering disciplines, conducting applied research at **Fab Lab IUB** and publishing IoT-focused hardware-software systems (IEEE STI).
+* **Ernst-Abbe-Hochschule Jena (EAH Jena):** Furthered specialized academic and technical pursuits in Germany, focusing on modern engineering and advanced technology solutions.
 
 ---
 
